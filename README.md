@@ -49,6 +49,8 @@ The full step-by-step explanations, walkthroughs, and mindset behind writing pro
 
 👉 **[Access the Course Here](https://www.udemy.com/course/draft/7070947/?referralCode=40ACA8F4B4F96FECB9E7)**
 
+The course info was added in bb4106f
+
 ---
 
 Made with ❤️ for developers who want to communicate clearly.
